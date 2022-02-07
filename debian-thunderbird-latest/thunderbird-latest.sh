@@ -3,8 +3,8 @@ wget -q -O thunderbird.tar.bz2 "https://download.mozilla.org/?product=thunderbir
 echo '✓'
 echo ''
 
-echo 'Downloading better icon..'
-wget -O default128.png "https://raw.githubusercontent.com/LegoManiac04/dot-es-aych/main/debian-thunderbird-latest/default128.png"
+echo 'Downloading better icon...'
+wget -q -O default128.png "https://raw.githubusercontent.com/LegoManiac04/dot-es-aych/main/debian-thunderbird-latest/default128.png"
 echo '✓'
 echo ''
 
