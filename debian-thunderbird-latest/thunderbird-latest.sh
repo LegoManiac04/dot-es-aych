@@ -16,6 +16,7 @@ echo ''
 
 echo 'Move thunderbird folder to /opt/...'
 sudo mv thunderbird /opt/
+sudo mv default128.png /opt/thunderbird/chrome/icons/default/default128.png
 echo '✓'
 echo ''
 
