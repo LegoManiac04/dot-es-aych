@@ -43,7 +43,7 @@ echo '✓'
 echo ''
 
 echo 'Installing useful dependencies...'
-sudo apt install dictionaries-common emacsen-common hunspell-tr libbotan-2-9 libtspi1 libnotify4 notification-daemon
+sudo apt install dictionaries-common emacsen-common hunspell-tr libbotan-2-17 libtspi1 libnotify4 notification-daemon libcanberra-gtk3-0 libcanberra-gtk3-module libcanberra-pulse libcanberra0
 echo '✓'
 echo ''
 echo ''
